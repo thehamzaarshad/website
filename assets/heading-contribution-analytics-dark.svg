@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 386 48" width="386" height="48" role="img" aria-label="Contribution Analytics">
+<rect x="1" y="1" width="384" height="46" rx="23" fill="#28220F" stroke="#4A4024" stroke-width="2"/>
+<rect x="22.5" y="20.5" width="7.0" height="7.0" fill="#DCA54C" transform="rotate(45 26 24)"></rect><rect x="356.5" y="20.5" width="7.0" height="7.0" fill="#DCA54C" transform="rotate(45 360 24)"></rect>
+<text x="193.0" y="31" text-anchor="middle" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600" font-size="22" fill="#DCA54C">Contribution Analytics</text>
+</svg>

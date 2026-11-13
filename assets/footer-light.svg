@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 70" width="800" height="70" role="presentation">
+<rect x="1" y="1" width="798" height="68" rx="34" fill="#F9F6EE" stroke="#E8DFC0" stroke-width="2"/>
+<rect x="376.5" y="31.5" width="7.0" height="7.0" fill="#B1901F" transform="rotate(45 380 35)"></rect><rect x="394" y="29" width="12" height="12" fill="#B1901F" transform="rotate(45 400 35)"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></rect><rect x="416.5" y="31.5" width="7.0" height="7.0" fill="#B1901F" transform="rotate(45 420 35)"></rect>
+</svg>

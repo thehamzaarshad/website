@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190" width="900" height="190" role="img" aria-label="Hamza Arshad">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#B1901F" stop-opacity="0"/><stop offset=".5" stop-color="#B1901F"/><stop offset="1" stop-color="#B1901F" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="898" height="188" rx="40" fill="#F9F6EE" stroke="#E8DFC0" stroke-width="2"/>
+<g transform="translate(95 95)" fill="none" stroke="#B1901F" stroke-width="1.5" opacity="0.28"><rect x="-38" y="-38" width="76" height="76"/><rect x="-38" y="-38" width="76" height="76" transform="rotate(45)"/></g><g transform="translate(95 95)" fill="none" stroke="#B1901F" stroke-width="1.5" opacity="0.18"><rect x="-24" y="-24" width="48" height="48"/><rect x="-24" y="-24" width="48" height="48" transform="rotate(45)"/></g><g transform="translate(805 95)" fill="none" stroke="#B1901F" stroke-width="1.5" opacity="0.28"><rect x="-38" y="-38" width="76" height="76"/><rect x="-38" y="-38" width="76" height="76" transform="rotate(45)"/></g><g transform="translate(805 95)" fill="none" stroke="#B1901F" stroke-width="1.5" opacity="0.18"><rect x="-24" y="-24" width="48" height="48"/><rect x="-24" y="-24" width="48" height="48" transform="rotate(45)"/></g>
+<text x="450" y="108" text-anchor="middle" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="44" fill="#B1901F" textLength="520" lengthAdjust="spacing">HAMZA ARSHAD</text>
+<rect x="330" y="132" width="240" height="2" fill="url(#g)"/>
+<rect x="446" y="129" width="8" height="8" fill="#B1901F" transform="rotate(45 450 133)"><animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></rect>
+</svg>

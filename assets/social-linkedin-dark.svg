@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 40" width="170" height="40" role="img" aria-label="your-profile">
+<rect width="170" height="40" rx="20" fill="#DCA54C"/>
+<g transform="translate(18 10)"><rect width="20" height="20" rx="4" fill="#1A160C"/><text x="10" y="15" text-anchor="middle" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="800" font-size="11" fill="#DCA54C">in</text></g>
+<text x="50" y="25.5" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="13" letter-spacing=".4" fill="#1A160C">your-profile</text>
+</svg>

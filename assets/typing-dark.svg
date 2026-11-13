@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 435 40" width="435" height="40" role="img" aria-label="Assalam-o-Alaikum!">
+<defs><clipPath id="c"><rect x="112.5" y="0" height="40" width="0"><animate attributeName="width" values="0;210;210;0" keyTimes="0;.4;.9;1" dur="6s" repeatCount="indefinite"/></rect></clipPath></defs>
+<text x="112.5" y="27" font-family="Poppins, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600" font-size="20" fill="#DCA54C" textLength="210" lengthAdjust="spacingAndGlyphs" clip-path="url(#c)">Assalam-o-Alaikum!</text>
+<rect y="7" width="2" height="26" fill="#DCA54C"><animate attributeName="x" values="112.5;322.5;322.5;112.5" keyTimes="0;.4;.9;1" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+</svg>

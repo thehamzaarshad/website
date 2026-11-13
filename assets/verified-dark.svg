@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" height="22" role="img" aria-label="verified">
+<circle cx="12" cy="12" r="9" fill="none" stroke="#DCA54C" stroke-width="1.5"><animate attributeName="r" values="9;11.5" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;0" dur="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="12" cy="12" r="9" fill="#DCA54C"/>
+<path d="M7.5 12.4l3 3 6-6.4" fill="none" stroke="#1A160C" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
